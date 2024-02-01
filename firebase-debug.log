@@ -1,0 +1,21 @@
+[debug] [2023-07-28T01:31:31.982Z] ----------------------------------------------------------------------
+[debug] [2023-07-28T01:31:31.990Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\Luiza Beatriz\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2023-07-28T01:31:31.992Z] CLI Version:   12.4.6
+[debug] [2023-07-28T01:31:31.994Z] Platform:      win32
+[debug] [2023-07-28T01:31:31.995Z] Node Version:  v18.12.1
+[debug] [2023-07-28T01:31:31.998Z] Time:          Thu Jul 27 2023 21:31:31 GMT-0400 (Horário Padrão do Amazonas)
+[debug] [2023-07-28T01:31:31.999Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2023-07-28T01:31:32.038Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2023-07-28T01:31:32.041Z] > authorizing via signed-in user (welingtonjose.dev@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\Luiza Beatriz\Documents\GitHub\JavaScript\JavaScript\Dank-Code\instagram-clone-wj
+
